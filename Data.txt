@@ -1,0 +1,3 @@
+Data can be accessed from Zenodo at: 
+
+Download and extract the file, "Data.zip", into your main working directory. 
