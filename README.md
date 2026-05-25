@@ -108,6 +108,7 @@ install.packages(c(
   "cowplot",          # Multi-panel figures
   "grid"              # Visualization engine
 ))
+```
 
 ## License
 
