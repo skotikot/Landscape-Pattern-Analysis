@@ -29,7 +29,7 @@ To execute these scripts without path modifications, set up your local project r
     └── Analysis_Outputs/              # Quantified landscape summary tables (.csv)
 ```
 
-Download data from Zenodo (10.5281/zenodo.20384313) and extract into the Data folder. 
+Download data from [Zenodo][10.5281/zenodo.20384313] and extract into the Data folder. 
 
 ## Core Categorical Data Classes
 
